@@ -1,2 +1,0 @@
-# bcsquants
-BcsQuants local backtest
